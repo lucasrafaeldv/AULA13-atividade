@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📦 Atividade 13 · API de Clientes
+#  Atividade 13 · API de Clientes
 
 API em **Node.js** com **Express** para gerenciar uma base de clientes armazenada em arquivo JSON.
 
@@ -13,7 +13,7 @@ API em **Node.js** com **Express** para gerenciar uma base de clientes armazenad
 
 ---
 
-## 📑 Índice
+##  Índice
 
 - [Sobre o projeto](#-sobre-o-projeto)
 - [Funcionalidades](#-funcionalidades)
@@ -32,11 +32,11 @@ API em **Node.js** com **Express** para gerenciar uma base de clientes armazenad
 
 ---
 
-## 📖 Sobre o projeto
+##  Sobre o projeto
 
 Projeto desenvolvido como atividade da **Aula 13**. A aplicação é um servidor web feito com Node.js e Express que trabalha com uma lista de clientes (id, CPF e nome) guardada em um arquivo JSON.
 
-## ✨ Funcionalidades
+##  Funcionalidades
 
 - Servidor HTTP construído com Express
 - Suporte a CORS para aceitar requisições de outras origens
@@ -51,7 +51,7 @@ Projeto desenvolvido como atividade da **Aula 13**. A aplicação é um servidor
 | [Express 5](https://expressjs.com/) | Framework web para criar o servidor e as rotas |
 | [CORS](https://www.npmjs.com/package/cors) | Liberação de requisições entre origens diferentes |
 
-## 📁 Estrutura do projeto
+##  Estrutura do projeto
 
 ```
 AULA13-atividade/
@@ -64,7 +64,7 @@ AULA13-atividade/
 └── server.js         # Ponto de entrada do servidor
 ```
 
-## ✅ Pré-requisitos
+##  Pré-requisitos
 
 Antes de começar, você precisa ter instalado:
 
@@ -72,7 +72,7 @@ Antes de começar, você precisa ter instalado:
 - npm (já vem junto com o Node.js)
 - [Git](https://git-scm.com/) para clonar o repositório
 
-## 🚀 Instalação
+##  Instalação
 
 ```bash
 # 1. Clone o repositório
@@ -85,7 +85,7 @@ cd AULA13-atividade
 npm install
 ```
 
-## ▶️ Como executar
+##  Como executar
 
 **Modo normal:**
 

@@ -43,7 +43,7 @@ Projeto desenvolvido como atividade da **Aula 13**. A aplicação é um servidor
 - Dados de clientes armazenados em arquivo JSON
 - Modo de desenvolvimento com recarregamento automático
 
-## 🛠 Tecnologias
+##  Tecnologias
 
 | Tecnologia | Uso |
 |------------|-----|

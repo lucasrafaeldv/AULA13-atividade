@@ -99,9 +99,9 @@ npm start
 npm run dev
 ```
 
-> 💡 **Dica:** confira no arquivo `server.js` qual porta o servidor utiliza e acesse `http://localhost:<porta>` no navegador.
+>  **Dica:** confira no arquivo `server.js` qual porta o servidor utiliza e acesse `http://localhost:<porta>` no navegador.
 
-## 🗂 Dados
+##  Dados
 
 Os clientes ficam em um arquivo JSON (`cliente.json`), que contém uma lista de objetos com os campos abaixo:
 
@@ -133,38 +133,38 @@ Os clientes ficam em um arquivo JSON (`cliente.json`), que contém uma lista de 
 ]
 ```
 
-## 🔌 Rotas da API
+##  Rotas da API
 
-> ⚠️ **A completar:** liste aqui as rotas definidas no `server.js` / `src`, seguindo o formato da tabela.
+>  **A completar:** liste aqui as rotas definidas no `server.js` / `src`, seguindo o formato da tabela.
 
 | Método | Rota | Descrição |
 |--------|------|-----------|
 | `GET`  | `/`  | (descreva o que a rota faz) |
 
-## 📜 Scripts disponíveis
+##  Scripts disponíveis
 
 | Comando | O que faz |
 |---------|-----------|
 | `npm start` | Inicia o servidor com `node server.js` |
 | `npm run dev` | Inicia o servidor com recarregamento automático (`node --watch`) |
 
-## 🖼 Imagens
+##  Imagens
 
-> ⚠️ **A completar:** adicione aqui prints do projeto funcionando. Exemplo:
+>  **A completar:** adicione aqui prints do projeto funcionando. Exemplo:
 >
 > `![Descrição da imagem](imgs/nome-do-arquivo.png)`
 
-## 🔮 Melhorias futuras
+##  Melhorias futuras
 
 - [ ] Validar o CPF (11 dígitos) e impedir CPFs repetidos
 - [ ] Adicionar rotas para criar, editar e remover clientes
 - [ ] Criar testes automatizados
 - [ ] Documentar a API com exemplos de requisição e resposta
 
-## 👤 Autor
+##  Autor
 
 Feito por **[lucasrafaeldv](https://github.com/lucasrafaeldv)**.
 
-## 📄 Licença
+##  Licença
 
 Este projeto está sob a licença **ISC**.

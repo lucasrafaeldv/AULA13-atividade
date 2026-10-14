@@ -148,12 +148,6 @@ Os clientes ficam em um arquivo JSON (`cliente.json`), que contém uma lista de 
 | `npm start` | Inicia o servidor com `node server.js` |
 | `npm run dev` | Inicia o servidor com recarregamento automático (`node --watch`) |
 
-##  Imagens
-
->  **A completar:** adicione aqui prints do projeto funcionando. Exemplo:
->
-> `![Descrição da imagem](imgs/nome-do-arquivo.png)`
-
 ##  Melhorias futuras
 
 - [ ] Validar o CPF (11 dígitos) e impedir CPFs repetidos
@@ -161,10 +155,3 @@ Os clientes ficam em um arquivo JSON (`cliente.json`), que contém uma lista de 
 - [ ] Criar testes automatizados
 - [ ] Documentar a API com exemplos de requisição e resposta
 
-##  Autor
-
-Feito por **[lucasrafaeldv](https://github.com/lucasrafaeldv)**.
-
-##  Licença
-
-Este projeto está sob a licença **ISC**.
